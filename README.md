@@ -4,6 +4,6 @@
 |họ và tên |Mã Sinh viên| Lớp| tài khoản Linux | GitHub | Cổng Nginx|
 |   ---     |   ---     |   --- |   ---         |  ---  |   ---     | 
 |Lê Đông  | PTIT-HN-010|CNNT3|le_dong| [le_dong]
-![01-user.png](01-user.png)
 
-bước làm tạo trang src/index.html trang web cấu trúc html5
+
+![01-user.png](01-user.png)
